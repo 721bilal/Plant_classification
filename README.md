@@ -76,8 +76,7 @@ datasets/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/
-Plant_classification.git
+git clone https://github.com/yourusername/Plant_classification.git
 cd plant-classification
 ```
 Create environment (recommended):
