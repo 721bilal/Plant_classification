@@ -46,5 +46,5 @@ def predict_image(img_path):
 # Example
 if __name__ == "__main__":
 
-    img_path = "/home/bilal721/nozm_project/"
+    img_path = "/.."
     predict_image(img_path)
