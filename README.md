@@ -97,17 +97,17 @@ Data augmentation
 ## The trained model will be saved as:
 `plant_classifier_model/`
 ### Model Architecture
- Backbone: EfficientNetB0
- Input size: 224x224
- Output layer: 17 classes
- Loss: Categorical Crossentropy
- Optimizer: `Adam`
+ - Backbone: EfficientNetB0  
+ - Input size: 224x224  
+ - Output layer: 17 classes  
+ - Loss: Categorical Crossentropy  
+ - Optimizer: `Adam`  
 ### Results
-`Test Accuracy:96%`
+## `Test Accuracy:96%`
 ### Future Improvements
-Deploy the model using FastAPI
-Create a web interface for uploading plant images
-Convert the model to TensorFlow Lite for mobile applications
-Expand dataset with more plant species
+- Deploy the model using FastAPI  
+- Create a web interface for uploading plant images  
+- Convert the model to TensorFlow Lite for mobile applications  
+- Expand dataset with more plant species  
 ### Author:
 # Mohammed Bilal Weshah
