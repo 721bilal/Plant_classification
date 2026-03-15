@@ -97,11 +97,11 @@ Data augmentation
 ## The trained model will be saved as:
 `plant_classifier_model/`
 ### Model Architecture
-# Backbone: EfficientNetB0
-# Input size: 224x224
-# Output layer: 17 classes
-# Loss: Categorical Crossentropy
-# Optimizer: `Adam`
+ Backbone: EfficientNetB0
+ Input size: 224x224
+ Output layer: 17 classes
+ Loss: Categorical Crossentropy
+ Optimizer: `Adam`
 ### Results
 `Test Accuracy:96%`
 ### Future Improvements
