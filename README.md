@@ -117,3 +117,5 @@ Data augmentation
 - Expand dataset with more plant species  
 ### Author:
 # Mohammed Bilal Weshah
+## License
+This project is licensed under the MIT License.
