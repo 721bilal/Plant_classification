@@ -61,6 +61,11 @@ datasets/
 ├── aloevera/
 ├── banana/
 ```
+## 📊 Dataset
+
+The dataset used in this project was collected from Kaggle.
+
+🔗 Dataset: [Plant Dataset on Kaggle](https://www.kaggle.com/datasets/marquis03/plants-classification)
 ### Dataset Statistics
 
 | Split | Images per class | Total images |
