@@ -77,7 +77,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/Plant_classification.git
-cd plant-classification
+cd Plant_classification
 ```
 Create environment (recommended):
 conda create -n plant_ai python=3.10
