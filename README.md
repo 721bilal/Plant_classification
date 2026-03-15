@@ -80,8 +80,10 @@ git clone https://github.com/yourusername/Plant_classification.git
 cd Plant_classification
 ```
 Create environment (recommended):
+```bash
 conda create -n plant_ai python=3.10
 conda activate plant_ai
+```
 Install dependencies:
 `pip install -r requirements.txt`
 ### Model Training:
