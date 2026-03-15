@@ -44,7 +44,8 @@ The model can classify the following plants:
 
 # 📂 Dataset Structure
 
-The dataset is organized into three folders:
+The dataset is organized into three folders:  
+```bash
 datasets/
 │
 ├── train/
@@ -59,7 +60,7 @@ datasets/
 └── test/
 ├── aloevera/
 ├── banana/
-
+```
 ### Dataset Statistics
 
 | Split | Images per class | Total images |
